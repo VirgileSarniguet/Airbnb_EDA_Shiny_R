@@ -418,8 +418,7 @@ which frontier are not that clear. Here is a map of Paris
 “arrondissements”.
 
 <center>
-![map of paris
-arrondissement](images/Arrondissements-de-Paris.jpg "fig:")
+<img src="AirbnbEDAVirgileSarniguetgit_files/figure-gfm/parismap.jpg" style="display: block; margin: auto;" />
 </center>
 
 ``` r
